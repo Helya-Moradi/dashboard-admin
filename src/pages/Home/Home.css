@@ -1,0 +1,12 @@
+.home {
+    flex: 4;
+}
+
+.features {
+    display: flex;
+}
+
+.widgetsContainer {
+    display: flex;
+    margin: 20px;
+}

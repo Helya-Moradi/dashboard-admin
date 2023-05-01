@@ -1,0 +1,12 @@
+.newUserContainer {
+    flex: 4;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.newUserForm {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}

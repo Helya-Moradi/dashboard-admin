@@ -1,0 +1,70 @@
+{"products":{
+   "a": {
+      "id": 1,
+      "title": "Dell",
+      "price": 350.99,
+      "avatar": "/images/dell.jpg"
+    },
+   "b": {
+      "id": 2,
+      "title": "Acer",
+      "price": 400,
+      "avatar": "/images/acer.jpg"
+    },
+   "c": {
+      "id": 3,
+      "title": "Asus",
+      "price": 370,
+      "avatar": "/images/asus.jpeg"
+    },
+   "d": {
+      "id": 4,
+      "title": "HP",
+      "price": 490.99,
+      "avatar": "/images/hp.jpg"
+    }
+},
+
+        "userLists":{
+        "a": {
+            "id": 1,
+            "username": "Ahamad Ahmadi",
+            "state": "active",
+            "avatar": "./images/profile.jfif",
+            "transaction": 155.99,
+            "email": "abc@gmail.com"
+          },
+          "b":{
+            "id": 2,
+            "username": "Saeed Ramezani",
+            "state": "non-active",
+            "avatar": "./images/amin.jpg",
+            "transaction": 125.99,
+            "email": "abc@gmail.com"
+          },
+          "c":{
+            "id": 3,
+            "username": "Reza Ahmadi",
+            "state": "active",
+            "avatar": "./images/amir.jpg",
+            "transaction": 15.99,
+            "email": "abc@gmail.com"
+          },
+          "d":{
+            "id": 4,
+            "username": "Bahman Saeedi",
+            "state": "active",
+            "avatar": "./images/hamze.jpg",
+            "transaction": 16.99,
+            "email": "abc@gmail.com"
+          },
+          "e":{
+            "id": 5,
+            "username": "Majid Ramezani",
+            "state": "non-active",
+            "avatar": "./images/mmd.jpg",
+            "transaction": 195.99,
+            "email": "abc@gmail.com"
+          }
+        }
+}

@@ -1,0 +1,48 @@
+.feature {
+    flex: 1;
+    margin: 25px;
+    padding: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0 0 15px -10px rgba(0, 0, 0, 0.1);
+}
+
+.featureTitle {
+    font-size: 20px;
+}
+
+.featureContainer {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.featureMoney {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.featureRate {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.rate {
+    font-size: 18px;
+}
+
+.rateIcon {
+    font-size: 18px;
+    margin-left: 5px;
+    color: green;
+}
+
+.rateIcon.negative {
+    color: red;
+}
+
+.featureSub {
+    font-size: 15px;
+    color: gray;
+}
